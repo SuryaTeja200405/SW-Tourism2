@@ -1,0 +1,144 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.homebg-container {
+    background-image: url("https://st2.depositphotos.com/3725083/5485/i/950/depositphotos_54856269-stock-photo-travel-the-world-monument-concept.jpg");
+    height: 100vh;
+    width: 100vw;
+    background-size: cover;
+}
+
+.homecard1 {
+    background-color: transparent;
+    text-align: center;
+    padding: 30px;
+    border-top-left-radius: 60px;
+    border-top-right-radius: 60px;
+    height: 20vh;
+
+}
+
+.homecard1_heading_tourism {
+    font-family: "Playfar Display";
+    font-size: 50px;
+    font-weight: bolder;
+    color: red;
+
+
+}
+
+.homecard1_paragraph {
+    font-family: "Caveat";
+    font-size: 20px;
+    color: blue;
+    font-weight: bolder;
+    text-decoration: line-through;
+    text-decoration-color: lightblue;
+}
+
+.homecard1_button {
+    border-radius: 10px;
+    border-width: 3px;
+    border-color: black;
+    background-color: green;
+
+}
+
+.fpbg-container12 {
+    background-image: url("https://img.freepik.com/free-photo/back-view-island-outdoors-tree-standing_1122-2293.jpg?t=st=1709662238~exp=1709665838~hmac=a70b6e6db3d4033e009285ec594273d5620abd9eabfc6e2a2b8246dc6d044488&w=360");
+    height: 170vh;
+    width: 100vw;
+    background-size: cover;
+
+}
+
+.fpbg-heading {
+    color: white;
+    font-size: 45px;
+    font-weight: bolder;
+    font-style: italic;
+    padding: 20px;
+    font-family: "Caveat";
+}
+
+.fpplaces-cards {
+    background-color: white;
+    padding: 8px;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    border-bottom-left-radius: 20px;
+    border-bottom-right-radius: 20px;
+    margin: 15px;
+    padding: 10px;
+
+}
+
+
+
+.fpcards-image {
+    height: 160px;
+    width: 140px;
+    padding: 5px;
+    border-width: 20px;
+    border-color: black;
+    text-align: right;
+}
+
+.fpcards-heading {
+    font-family: "Caveat";
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.fpcards-description {
+    font-weight: 500;
+    font-family: "Caveat";
+    font-size: 25px;
+
+}
+
+.bg-container3 {
+    background-image: url("https://img.freepik.com/premium-photo/man-yellow-jacket-sitting-suspension-bridge-lake-olpererhutte-austria_218111-204.jpg?w=360");
+    height: 160vh;
+    width: 100vw;
+    background-size: cover;
+
+}
+
+.bg-container3-heading {
+    font-family: "Caveat";
+    font-style: italic;
+    font-weight: bold;
+    padding: 10px;
+}
+
+.bg-card1 {
+    background-color: white;
+    border-radius: 8px;
+    margin: 10vh;
+    margin-top: 15vh;
+    padding: 35px;
+
+}
+
+.detailed-view-card-description {
+    font-family: "Caveat";
+    font-size: 25px;
+    font-weight: 600;
+}
+
+.detailed-view-card-heading {
+    font-family: "Playfire Display";
+    font-size: 40px;
+    font-weight: Bolder;
+}
+
+.detailed-view-card-text-container {
+    padding: 10px;
+    margin: 5px;
+}
+
+.carousel-size {
+    height: 50vh;
+    width: 65vw;
+}
